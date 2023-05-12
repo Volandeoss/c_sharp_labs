@@ -1,0 +1,7 @@
+C:\Users\Maxim\source\repos\vladislave\2 sharp\2 sharp\bin\Debug\2 sharp.exe.config
+C:\Users\Maxim\source\repos\vladislave\2 sharp\2 sharp\bin\Debug\2 sharp.exe
+C:\Users\Maxim\source\repos\vladislave\2 sharp\2 sharp\bin\Debug\2 sharp.pdb
+C:\Users\Maxim\source\repos\vladislave\2 sharp\2 sharp\obj\Debug\2 sharp.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\vladislave\2 sharp\2 sharp\obj\Debug\2 sharp.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\vladislave\2 sharp\2 sharp\obj\Debug\2 sharp.exe
+C:\Users\Maxim\source\repos\vladislave\2 sharp\2 sharp\obj\Debug\2 sharp.pdb

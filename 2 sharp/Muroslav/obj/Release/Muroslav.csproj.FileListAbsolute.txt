@@ -1,0 +1,7 @@
+D:\VOLANDEMORT\vladislave\2 sharp\Muroslav\bin\Release\Muroslav.exe.config
+D:\VOLANDEMORT\vladislave\2 sharp\Muroslav\bin\Release\Muroslav.exe
+D:\VOLANDEMORT\vladislave\2 sharp\Muroslav\bin\Release\Muroslav.pdb
+D:\VOLANDEMORT\vladislave\2 sharp\Muroslav\obj\Release\Muroslav.csprojAssemblyReference.cache
+D:\VOLANDEMORT\vladislave\2 sharp\Muroslav\obj\Release\Muroslav.csproj.CoreCompileInputs.cache
+D:\VOLANDEMORT\vladislave\2 sharp\Muroslav\obj\Release\Muroslav.exe
+D:\VOLANDEMORT\vladislave\2 sharp\Muroslav\obj\Release\Muroslav.pdb
